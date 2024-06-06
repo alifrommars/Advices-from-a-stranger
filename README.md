@@ -9,10 +9,10 @@ To become rich, you need to invest your time in education and self-development. 
 
 Here are some common ways of getting money fast:
 
-    Win a lottery
-    Gambling
-    Betting
-    Win unconditional basic income
+    ## Win a lottery
+    ## Gambling
+    ## Betting
+    ## Win unconditional basic income
 
 All of the above-mentioned options are highly dependent on luck and not feasible for building long-term wealth.
 Reduce your expenses
@@ -55,7 +55,7 @@ Put aside a small portion of your income for investments. Even if that is just 1
 
 Here are some investment platforms that I have personally invested in:
 
-    Binance Earn
+    ## [Binance Earn](https://accounts.binance.com/register?ref=109218570)
     Stake
     Estateguru
     Invesdor
